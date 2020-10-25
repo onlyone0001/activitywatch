@@ -96,14 +96,13 @@ We've worked towards this goal by creating a application for safe storage of the
  - Currently active application and the title of its window
  - Currently active browser tab and it's title and URL
  - Keyboard and mouse activity, to detect if you are AFK ("away from keyboard") or not
-</small>
 
 It is up to you as user to collect as much as you want, or as little as you want (and we hope some of you will help write watchers so we can collect more).
 
 ### Screenshots
 
-<span><img src="https://activitywatch.net/screenshot-v0.8.0b9-today.png"    width="35%"></span>
-<span><img src="https://activitywatch.net/screenshot-v0.8.0b9-timeline.png" width="43%"></span>
+<span><img src="https://activitywatch.net/img/screenshot-v0.9.3-activity.png"   width="40%"></span>
+<span><img src="https://activitywatch.net/img/screenshot-v0.8.0b9-timeline.png" width="40%"></span>
 
 
 ## Installation & Usage
